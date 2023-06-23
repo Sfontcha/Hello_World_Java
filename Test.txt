@@ -1,1 +1,3 @@
 Je teste mes connaissance en git
+J'ai pu ajouter deux fichiers deja
+la je fait une modification pour voir ce qui se passe
